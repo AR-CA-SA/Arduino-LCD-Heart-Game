@@ -20,6 +20,6 @@ The following code executes a process designed for the Arduino UNO R3. This proc
 
 ## Future Improvements
 
--Multiple bullets
--Increasing difficulty
--Sound effects
+* Multiple bullets
+* Increasing difficulty
+* Sound effects
