@@ -3,8 +3,7 @@ The following code executes a process designed for the Arduino UNO R3. This proc
 
 ## Hardware Components
 
--Arduino Uno
-
+* Arduino Uno
 * 16x2 LCD
 * 4 Push Buttons
 * Potentiometer
@@ -12,9 +11,9 @@ The following code executes a process designed for the Arduino UNO R3. This proc
 
 ## Gameply Overview
 
--Bullets spawn randomly left or right
--Player can move up, down, left, or right
--Collision triggers a “game over” animation
+* Bullets spawn randomly left or right
+* Player can move up, down, left, or right
+* Collision triggers a “game over” animation
 
 # Libraries used
 - LiquidCrystal (built-in Arduino library)
